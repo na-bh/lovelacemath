@@ -174,7 +174,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #ffdcd9;
+  background: #4aa3df;
 }
 
 .navbar .dropdown ul {
@@ -705,7 +705,7 @@ section {
 .services .icon-box::before {
   content: "";
   position: absolute;
-  background: #ffdcd9;
+  background: #e1f0fa;
   right: -60px;
   top: -40px;
   width: 100px;
